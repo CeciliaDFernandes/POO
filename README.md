@@ -30,3 +30,12 @@ Coleção vazia tratada	✅ "Estoque vazio"	✅ "Nenhum aluno cadastrado"
 Nota entre 0 e 10	—	✅
 
 calcular_media com return (sem print)	—	✅
+
+
+seu-repositorio-da-disciplina/
+│
+├── README.md                    # (opcional) Descrição do repositório da disciplina
+│
+└── unidade-01/                  # Ou use o nome da pasta exigido pelo professor, como "Aula01"
+    ├── estoque.py               # Código da Questão 1
+    └── alunos.py                # Código da Questão 2
